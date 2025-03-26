@@ -7,7 +7,7 @@ def material_strength_calculation_for_steel():
     
     stress = F/A
     
-    print(f"So, the stress on the beam is {stress:.2f}Pa.\n") 
+    print(f"So, the stress on the beam is {stress:.2f}Pa.") 
     
 if __name__== "__main__":
     material_strength_calculation_for_steel()     
